@@ -1,0 +1,1 @@
+Model trained for 150 epochs with crossEntropyLoss function 

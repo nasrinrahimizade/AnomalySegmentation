@@ -1,0 +1,7 @@
+The gtFine contains 2975 sample for training and for each sample it has 4 files 
+and 500 samples for validation
+and 1525 for testing 
+with the same 4 files for each sample
+
+
+json files contain the individual polygons and the annotations are encoded using the json

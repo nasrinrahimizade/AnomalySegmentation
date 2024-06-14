@@ -1,0 +1,1 @@
+trained on 50 epochs on ipazia for encoder and decoder with default loss function

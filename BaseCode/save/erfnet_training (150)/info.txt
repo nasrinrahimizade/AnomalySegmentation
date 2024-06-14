@@ -1,0 +1,1 @@
+trining 150 epochs on erfnet with the default loss function
