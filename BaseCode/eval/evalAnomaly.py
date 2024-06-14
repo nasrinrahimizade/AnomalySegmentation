@@ -94,7 +94,7 @@ def main():
         if args.evalMethod=="maxLogit" :
             #Max Logit
             # print("Maxlogit\n")
-            anomaly_result = 1.0 - np.max(result.squeeze(0).data.cpu().numpy(), axis=0)   
+            anomaly_result = np.max(result.squeeze(0).data.cpu().numpy(), axis=0)   
         elif args.evalMethod == "maxEntropy":
             #Max Entropy
             # print("MaxEntopy")
